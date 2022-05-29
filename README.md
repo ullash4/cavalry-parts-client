@@ -1,8 +1,8 @@
 # Cavalry Parts - A manufacturer related fullstack website which organization import bike's parts from US
 ## Website Name : [Cavalry-Parts](https://cavalry-parts.web.app/)
 ## Website Live Link : [Live Site](https://cavalry-parts.web.app/)
-## Website Client-Side Repo Link : [Client-side Repo Link](https://github.com/programming-hero-web-course1/manufacturer-website-client-side-ullash4)
-## Website Server-side Repo Link : [Server-side Repo Link](https://github.com/programming-hero-web-course1/manufacturer-website-server-side-ullash4)
+## Website Client-Side Repo Link : [Client-side Repo Link](https://github.com/ullash4/cavalry-parts-client)
+## Website Server-side Repo Link : [Server-side Repo Link](https://github.com/ullash4/cavarly-parts-server)
 A manufacturer related fullstack website which organization import bike's parts from US
 ## Features:
 
