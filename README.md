@@ -12,6 +12,6 @@ A manufacturer related fullstack website which organization import bike's parts 
 - Implement Add product give review update user profile 
 - Implement jwt token for secure data from 3rd party
 - 404 not found  page
-
+- Design miminal 
 
 ## Used Technologies: React.js, TailwindCSS, React icons, React router, Toastify, React firebase hooks, Firebase, Express, Nodejs, Json web token, Mongodb.
